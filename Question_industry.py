@@ -4,7 +4,12 @@ Created on Thu Dec 15 10:08:36 2022
 
 @author: suman
 """
+#this code is about how to use inheritance 
+#And how to create object array 
+#while using the switch case and through switches we can perform some actions
+#And also we read and write input and outputs in files
 
+#In this question industry is a parent and company is child
 class industry():
     def __init__(self,name,company_count_under_industry,countryoforigin):
         self.name = name
